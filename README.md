@@ -8,4 +8,6 @@ the Amazon1M dataset using Databricks.
 - `src/`: Python scripts for reusable functions.
 - `dashboards/`: Code or visualizations for dashboards.
 - `config/`: Configuration files for the project.
+- `tests/`: Unit and integration tests for validating the functionality of scripts and pipelines.
+
 
