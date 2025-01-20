@@ -1,0 +1,13 @@
+# Ignore datasets and temporary files
+data/raw/
+data/processed/
+*.arrow
+*.csv
+*.parquet
+
+# Ignore virtual environments and system files
+.venv/
+__pycache__/
+.DS_Store
+
+

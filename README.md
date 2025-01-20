@@ -1,2 +1,22 @@
-# amazon1m-databricks
-Amazon1M Data Science Project: Integrating Databricks for scalable ETL, data modeling, and visualization of the Amazon1M dataset.
+# Amazon1M Databricks Project
+This repository contains code and resources for processing and analyzing 
+the Amazon1M dataset using Databricks.
+
+## Project Structure
+- `data/`: Raw and processed datasets.
+- `notebooks/`: Jupyter notebooks for ETL, analysis, and modeling.
+- `src/`: Python scripts for reusable functions.
+- `dashboards/`: Code or visualizations for dashboards.
+- `config/`: Configuration files for the project.
+# Amazon1M Databricks Project
+This repository contains code and resources for processing and analyzing 
+the Amazon1M dataset using Databricks.
+
+## Project Structure
+- `data/`: Raw and processed datasets.
+- `notebooks/`: Jupyter notebooks for ETL, analysis, and modeling.
+- `src/`: Python scripts for reusable functions.
+- `dashboards/`: Code or visualizations for dashboards.
+- `config/`: Configuration files for the project.
+- `tests/`: Unit and integration tests.
+
